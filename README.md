@@ -29,8 +29,3 @@ In this project we have implemented ML algorithms to predict Diabetes, Breast Ca
 
 [Rakesh](https://github.com/rakeshrohan-123)
 
-[Sriram](https://github.com/dinnysriramcharan)
-
-[Yashwanth](https://github.com/Yashwanth-23)
-
-[Arun]()
